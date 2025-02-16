@@ -1,12 +1,12 @@
-TransferBank 🏦
+# TransferBank 🏦
 
 Este é um projeto de simulação de operações bancárias desenvolvido em C# como parte do curso prático da Digital Innovation One (DIO), ministrado pelo **Eliézer Zarpelão**.
 
-📋 Sobre o Projeto
+## 📋 Sobre o Projeto
 
 O TransferBank é uma aplicação console que simula um sistema bancário básico, permitindo realizar operações financeiras comuns como transferências, saques e depósitos. O sistema suporta dois tipos de contas: Pessoa Física e Pessoa Jurídica.
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 - Listagem de contas cadastradas
 - Criação de novas contas
@@ -16,7 +16,7 @@ O TransferBank é uma aplicação console que simula um sistema bancário básic
 - Sistema de crédito por conta
 - Validação de saldo e limites
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - C# (.NET)
 - Programação Orientada a Objetos
@@ -32,7 +32,7 @@ O projeto está organizado em três principais arquivos:
 2. `Conta.cs`: Implementa a classe Conta com suas propriedades e métodos
 3. `TipoConta.cs`: Define o enum com os tipos de conta disponíveis
 
-💻 Como Usar
+## 💻 Como Usar
 
 1. Clone o repositório
 2. Abra o projeto em sua IDE preferida (Visual Studio, VS Code, etc.)
@@ -46,19 +46,19 @@ O projeto está organizado em três principais arquivos:
    - Limpar a tela (opção C)
    - Sair do programa (opção X)
 
-⚙️ Funcionalidades Detalhadas
+## ⚙️ Funcionalidades Detalhadas
 
-Criação de Conta
+### Criação de Conta
 - Suporte para Pessoa Física e Jurídica
 - Definição de saldo inicial
 - Estabelecimento de limite de crédito
 
-Operações Financeiras
+### Operações Financeiras
 - **Saque**: Validação de saldo e limite de crédito
 - **Depósito**: Atualização automática de saldo
 - **Transferência**: Verificação de disponibilidade e execução segura
 
-🤝 Contribuições
+## 🤝 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para:
 - Reportar bugs
@@ -66,10 +66,10 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 - Melhorar a documentação
 - Enviar pull requests
 
-✨ Agradecimentos
+## ✨ Agradecimentos
 
 Agradecimento especial à Digital Innovation One (DIO) e ao instrutor Eliézer Zarpelão pelo excelente conteúdo e orientação no desenvolvimento deste projeto.
 
-📝 Licença
+## 📝 Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
